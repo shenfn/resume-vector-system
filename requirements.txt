@@ -1,0 +1,13 @@
+# 核心依赖
+streamlit>=1.30.0
+chromadb>=0.4.22
+openai>=1.12.0
+PyMuPDF>=1.23.0
+
+# 数据处理
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# 工具库
+tiktoken>=0.5.0
+hashlib-additional>=1.0.1
