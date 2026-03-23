@@ -22,7 +22,7 @@
 岗位匹配：
 <img width="1848" height="1220" alt="image" src="https://github.com/user-attachments/assets/d363fa18-f7af-4b37-9ec9-04c9fab3e622" />
 岗位匹配结果：
-<img width="1833" height="889" alt="image" src="https://github.com/user-attachments/assets/3051e713-3f13-4446-9018-ce2992064980" />
+<img width="1792" height="744" alt="image" src="https://github.com/user-attachments/assets/78d39b18-a9ee-4737-ada1-9f9b41d8d065" />
 系统测试：
 <img width="1864" height="2041" alt="image" src="https://github.com/user-attachments/assets/2e201477-36ac-4a8d-966b-6024a6df567e" />
 
