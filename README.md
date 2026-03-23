@@ -15,7 +15,17 @@
 - **双路召回检索**：语义相似度 + 技能关键词双路融合，提升匹配精度
 
 ## 核心功能展示
+内容库管理：
+<img width="1908" height="1248" alt="image" src="https://github.com/user-attachments/assets/3ba38cc6-4add-4550-ad68-aa1f78ced561" />
+执行报告：
 <img width="1888" height="1265" alt="image" src="https://github.com/user-attachments/assets/1788b645-6a07-4d27-9f9d-a80f34c36400" />
+岗位匹配：
+<img width="1848" height="1220" alt="image" src="https://github.com/user-attachments/assets/d363fa18-f7af-4b37-9ec9-04c9fab3e622" />
+岗位匹配结果：
+<img width="1833" height="889" alt="image" src="https://github.com/user-attachments/assets/3051e713-3f13-4446-9018-ce2992064980" />
+系统测试：
+<img width="1864" height="2041" alt="image" src="https://github.com/user-attachments/assets/2e201477-36ac-4a8d-966b-6024a6df567e" />
+
 
 
 ## 快速开始
